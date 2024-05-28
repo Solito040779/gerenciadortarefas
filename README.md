@@ -1,3 +1,4 @@
+Trabalho feito por João Vitor Longo e Mikael Moreira.
 Coloque o programa para rodar e abre o postman, teste os endpoints CRUD, começando por criar uma nova tarefa (post na) url: 'http://localhost:8080/tasks, métodos post, no body, selecione raw e JSON, escreva o que deseja colocar: { "descricao":,"dataLimite":, "finalizada":,
 para enviar a requisição clique emsend
 Para obter todas as tarefas utilize o get, na url: 'http://localhost:8080/tasks, enviar requisição cliqeu em send, isso fará com que todas as tarefas que estão presentes sejam exibidas, 
